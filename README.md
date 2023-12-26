@@ -3,9 +3,8 @@
 #### Technical Skills: Python, SQL, Data Analysis, Machine learning
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Msc., Data Science | Oslo Metropolitan University (_August 2022 to June 2024_)								       		             		
+- Bsc., Information Management Technology | Federal University of Technology, Owerri (_October 2010_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
