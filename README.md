@@ -8,3 +8,4 @@
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
+[link](https://colab.research.google.com/drive/1JEZObX3Edv-vlxJByuZY4JI24p1j0acd#scrollTo=L4uMifr__aDc)
