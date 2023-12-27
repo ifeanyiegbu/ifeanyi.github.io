@@ -13,3 +13,6 @@
 
 ### A model for predicting Air flight Ticket Price
 [link to code](https://colab.research.google.com/drive/1uZrhmti5ICfq21-2Gjxwi6EgqA91hp0k)
+
+### Prediction of fake job postings in the online platform using RNN(LSTM)
+[link to code](https://colab.research.google.com/drive/1zervNWoBlELycDwHHl58T3B8Pc7RH8pl)
