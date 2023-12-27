@@ -10,3 +10,6 @@
 ### Plant Disease Detection using Convolutional Neural Network
 
 [link to code](https://colab.research.google.com/drive/1JEZObX3Edv-vlxJByuZY4JI24p1j0acd#scrollTo=L4uMifr__aDc)
+
+### A model for predicting Air flight Ticket Price
+[link to code](https://colab.research.google.com/drive/1uZrhmti5ICfq21-2Gjxwi6EgqA91hp0k)
