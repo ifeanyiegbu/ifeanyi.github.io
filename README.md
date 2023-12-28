@@ -7,6 +7,12 @@
 - Bsc, Information Management Technology | Federal University of Technology, Owerri (_October 2010_)
 
 ## Projects
+
+### Generation of 3D objects using Generative Adversarial Networks on ModelNet10 dataset.
+[link to code](https://colab.research.google.com/drive/1z01Nh3q2d6up4a6Nqxq3Epa_75kLPmRY)
+
+This research explores creating 3D objects using "3D Generative Adversarial Networks" (3D GAN). The method employs adversarial networks and volumetric convolutional networks. Unlike traditional methods, it captures object structures implicitly, generates high-quality 3D objects without reference images, and uses an unsupervised discriminator for 3D shape description. Experiments confirm its ability to produce top-notch 3D objects and achieve competitive results in object recognition compared to supervised learning methods.
+
 ### Plant Disease Detection using Convolutional Neural Network
 [link to code](https://colab.research.google.com/drive/1JEZObX3Edv-vlxJByuZY4JI24p1j0acd#scrollTo=L4uMifr__aDc)
 
