@@ -16,5 +16,9 @@
 
 In this project, four models were initially examined to predict the Air flight price ticket. Further analysis was carried out by using Ensemble methods to improve performance of the model. After Hypertuning the parameters, the best model was selected. The model achieved an accuracy of 88% which is an improvement on related work done by Nikita Verma and Amar Mandal who achieved 87% and 81% accuracy respectively.
 
-### Prediction of fake job postings in the online platform using RNN(LSTM)
+### Prediction of fake job postings in the online platform using Random forest classifier
 [link to code](https://colab.research.google.com/drive/1zervNWoBlELycDwHHl58T3B8Pc7RH8pl)
+
+This project introduces the Long Short-Term Memory (LSTM) classifier for predicting fake job posts online. Utilizing natural language processing and various techniques like word cloud representation and lemmatization, six models were tested, with Random Forest outperforming others. LSTM's lower accuracy suggests it's not ideal, favoring supervised algorithms like Random Forest for this dataset with an accuracy of 96.81%.
+
+
