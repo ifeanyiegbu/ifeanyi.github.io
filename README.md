@@ -8,6 +8,9 @@
 
 ## Projects
 
+### CASUAL AI: Generating casual graphs using large language models(Ongoing Thesis project)
+The project involves leveraging Large Language Models (LLMs) to extract causal graphs from unstructured data. The project aims to enhance automation by developing prompt engineering techniques, generating structured graphs, and implementing a search functionality within the generated causal graphs. The focus is on measuring the degree of automation achievable, necessitating thorough prompt design and evaluation methodologies to ensure the effectiveness and reliability of the automated extraction process.
+
 ### Generation of 3D objects using Generative Adversarial Networks on ModelNet10 dataset.
 [link to code](https://colab.research.google.com/drive/1z01Nh3q2d6up4a6Nqxq3Epa_75kLPmRY)
 
